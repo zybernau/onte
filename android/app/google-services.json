@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "33989530401",
+    "firebase_url": "https://onte-pro.firebaseio.com",
+    "project_id": "onte-pro",
+    "storage_bucket": "onte-pro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33989530401:android:d31707ccea1d7f14",
+        "android_client_info": {
+          "package_name": "in.zybernau.ontep"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33989530401-jrrlo02gj0hahehbp4pkl1vcfh2guum9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_3h2PcsEzqiXhP_xAys4WqMfKi8ga0mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33989530401-jrrlo02gj0hahehbp4pkl1vcfh2guum9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
